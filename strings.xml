@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="button1">Celsius to Fahrenheit</string>
+    <string name="button2">Fahrenheit to Celsius</string>
+    <string name="button3">Fahrenheit to Kelvin</string>
+    <string name="button4">Kelvin to Fahrenheit</string>
+    <string name="button5">Celsius to Kelvin</string>
+    <string name="button6">Kelvin to Celsius</string>
+    <string name="textactivity2">Enter Temperature in Celsius</string>
+    <string name="textactivity3">Enter Temperature in Fahrenheit</string>
+    <string name="textactivity4">Enter Temperature in Kelvin</string>
+    <string name="textactivity5">Enter Temperature in Fahrenheit</string>
+    <string name="BackButton2">Back</string>
+    <string name="convert">Convert</string>
+
+</resources>
